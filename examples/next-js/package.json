@@ -14,7 +14,7 @@
     "@emotion/styled": "^11.11.0",
     "@guildxyz/sdk": "^2.6.8",
     "@guildxyz/types": "^1.10.0",
-    "framer-motion": "^11.0.3",
+    "framer-motion": "^11.13.1",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
