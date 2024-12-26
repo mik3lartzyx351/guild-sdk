@@ -13,7 +13,7 @@
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
     "@guildxyz/sdk": "^2.6.8",
-    "@guildxyz/types": "^1.10.0",
+    "@guildxyz/types": "^1.10.30",
     "framer-motion": "^11.0.3",
     "next": "latest",
     "react": "latest",
