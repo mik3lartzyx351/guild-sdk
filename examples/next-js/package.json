@@ -15,7 +15,7 @@
     "@guildxyz/sdk": "^2.6.8",
     "@guildxyz/types": "^1.10.0",
     "framer-motion": "^11.0.3",
-    "next": "latest",
+    "next": "13.5.8",
     "react": "latest",
     "react-dom": "latest",
     "swr": "^2.2.4",
